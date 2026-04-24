@@ -27,4 +27,4 @@ A defender would detect this by:
 - Wireshark filter: arp.duplicate-address-detected
 
 ## Lessons Learned
-even though Arp poisoning only affects the layer 2 network,it's biggest weak point is that it has no authentication 
+even though Arp poisoning only affects the layer 2 network,its biggest weak point is that it has no authentication 
