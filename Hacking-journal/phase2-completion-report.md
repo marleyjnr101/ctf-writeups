@@ -35,7 +35,7 @@ T1590.002 — DNS Enumeration (dig, zone transfer)
 T1135  — Network Share Discovery (enum4linux)
 
 ## What Gave Me Trouble
-I would say its the Dns part , not that it was hard but like somethings were missing and left me confused at some point
+I would say it's the Dns part , not that it was hard but like some things were missing and left me confused at some point
 
 ## What I Would Do Differently
 I would have never underestimated Over the wire , i have come to understand most of the things done in the terminal all mostly linux command line .
